@@ -2,10 +2,7 @@ package model;
 
 /**
  * This class represents the logic of a game where a board is updated on each
- * step of the game animation. The board can also be updated by selecting a
- * board cell.
- * 
- * @author Dept of Computer Science, UMCP
+ * step of the game animation. 
  */
 
 public abstract class Game {
@@ -62,7 +59,7 @@ public abstract class Game {
 	 * @param rowIndex
 	 * @param cell
 	 */
-	public void setRowWithColor(int rowIndex, BoardCell cell) { // ********not sure about what this method does
+	public void setRowWithColor(int rowIndex, BoardCell cell) {
 
 		for (int c = 0; c < cols; c++) {
 
