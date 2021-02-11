@@ -2,7 +2,6 @@ package model;
 
 import java.util.Random;
 
-/* This class must extend Game */
 public class ClearCellGame extends Game {
 
 	private int row, col, strategy, score;
