@@ -1,7 +1,5 @@
 package listClasses;
-
 import java.util.Iterator;
-
 import java.util.ArrayList;
 
 public class BasicLinkedList<T> implements Iterable<T> {
