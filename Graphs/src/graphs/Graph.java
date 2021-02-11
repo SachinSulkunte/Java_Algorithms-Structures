@@ -3,11 +3,10 @@ package graphs;
 import java.util.*;
 
 /**
- * Implements a graph. We use two maps: one map for adjacency properties 
- * (adjancencyMap) and one map (dataMap) to keep track of the data associated 
- * with a vertex. 
+ * Implements a graph using two maps; one map for adjacency properties 
+ * and one map to keep track of the data associated with a vertex. 
  * 
- * @author cmsc132
+ * @author Sachin Sulkunte
  * 
  * @param <E>
  */
