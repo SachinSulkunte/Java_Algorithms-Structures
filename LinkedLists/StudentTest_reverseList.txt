@@ -1,0 +1,28 @@
+Basic List
+1
+2
+3
+4
+5
+
+
+Reversed Basic List
+5
+4
+3
+2
+1
+
+Sorted List
+Green
+Purple
+Red
+Yellow
+
+Reverse Sorted List
+Yellow
+Red
+Purple
+Green
+
+Test null list

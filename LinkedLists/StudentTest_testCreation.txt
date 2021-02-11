@@ -1,0 +1,7 @@
+List:
+Green
+Red
+Red
+Blue
+Yellow
+5

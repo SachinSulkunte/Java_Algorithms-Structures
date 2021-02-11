@@ -1,0 +1,14 @@
+List:
+Blue
+Green
+Red
+Yellow
+Size of Color List: 4
+
+List 2
+b
+B
+c
+D
+s
+Size of List 2: 5

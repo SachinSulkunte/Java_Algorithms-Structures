@@ -1,0 +1,8 @@
+Tree Size: 6
+Tree Height: 3
+
+After Removal
+Tree Size: 4
+Tree Height: 3
+Clearing the tree
+Updated size: 0

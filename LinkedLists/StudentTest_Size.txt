@@ -1,0 +1,7 @@
+Removing blue
+4
+Removing red
+2
+Size of List 2: 3
+Size of empty List: 0
+Size after removal: 1

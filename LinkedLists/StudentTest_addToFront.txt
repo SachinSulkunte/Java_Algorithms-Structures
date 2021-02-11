@@ -1,0 +1,8 @@
+List:
+Yellow
+Blue
+Red
+Green
+Red
+5
+Unsupported Operation for Sorted List

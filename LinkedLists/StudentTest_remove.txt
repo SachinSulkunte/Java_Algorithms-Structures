@@ -1,0 +1,8 @@
+Blue
+Purple
+Removing blue from list 1
+1
+Removing red
+Purple
+Removing blue from list 2
+Green

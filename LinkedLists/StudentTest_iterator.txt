@@ -1,0 +1,12 @@
+First List: 
+Red
+Green
+Red
+Blue
+Yellow
+Second List: 
+b
+B
+c
+D
+s
