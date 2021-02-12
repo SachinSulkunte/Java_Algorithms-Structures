@@ -13,7 +13,6 @@ public class SystemManager extends Serialize implements Manager{
 				return false;
 			}
 		}
-
 		Exam e = new Exam(examId, title);
 		Exam.examList.add(e);
 		return true;
