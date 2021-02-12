@@ -125,7 +125,6 @@ public class OrdersProcessor implements Runnable {
 	public static void writeData(String fileName, TreeMap<Integer, StringBuilder> output, StringBuilder summary) {
 
 		try {
-
 			BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(fileName, false));
 
 			for (Integer s : output.keySet()) {
